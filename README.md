@@ -38,7 +38,7 @@ and recommends relevant job opportunities using similarity matching and ranking 
 
 ## 🔗 Live Project Page
 
-👉 **DR NEXGEN – Job Recommendation System Project**  
+👉 **DR NexGen Pvt Ltd – Job Recommendation System Project**  
 https://www.drnexgen.com/engineering-projects/ai-ml/job-recommendation-system
 
 ---
@@ -54,5 +54,5 @@ This project is suitable for:
 
 ## 🔹 Author
 
-Developed and maintained by **DR NEXGEN**  
+Developed and maintained by **DR NexGen Pvt Ltd**  
 🌐 https://www.drnexgen.com
